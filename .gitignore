@@ -1,0 +1,39 @@
+# ===========================
+# .NET / ASP.NET Core Backend
+# ===========================
+backend/**/bin/
+backend/**/obj/
+backend/**/*.user
+backend/**/*.suo
+backend/**/.vs/
+backend/**/appsettings.Development.json
+backend/**/*.db
+backend/**/*.db-shm
+backend/**/*.db-wal
+
+# ===========================
+# Node / React Frontend
+# ===========================
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# ===========================
+# General IDE & OS Files
+# ===========================
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ===========================
+# Docker
+# ===========================
+*.env

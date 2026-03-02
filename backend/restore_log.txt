@@ -1,0 +1,13 @@
+﻿  Determining projects to restore...
+  Restored D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Domain\MoneyTrace.Domain.csproj (in 115 ms).
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Api\MoneyTrace.Api.csproj : error NU1301: Unable to load the service index for source https://practicehub.pkgs.visualstudio.com/PracticeHub.Central/_packaging/PracticeHub.Central.Nuget/nuget/v3/index.json. [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Api\MoneyTrace.Api.csproj : error NU1301:   Response status code does not indicate success: 401 (Unauthorized). [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Application\MoneyTrace.Application.csproj : error NU1301: Unable to load the service index for source https://practicehub.pkgs.visualstudio.com/PracticeHub.Central/_packaging/PracticeHub.Central.Nuget/nuget/v3/index.json. [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Application\MoneyTrace.Application.csproj : error NU1301:   Response status code does not indicate success: 401 (Unauthorized). [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+  Failed to restore D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Application\MoneyTrace.Application.csproj (in 7.86 sec).
+  Failed to restore D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Api\MoneyTrace.Api.csproj (in 7.86 sec).
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Api\MoneyTrace.Api.csproj : error NU1301: Unable to load the service index for source https://practicehub.pkgs.visualstudio.com/PracticeHub.Central/_packaging/PracticeHub.Central.Nuget/nuget/v3/index.json. [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Api\MoneyTrace.Api.csproj : error NU1301:   Response status code does not indicate success: 401 (Unauthorized). [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\MoneyTrace.Infrastructure.csproj : error NU1301: Unable to load the service index for source https://practicehub.pkgs.visualstudio.com/PracticeHub.Central/_packaging/PracticeHub.Central.Nuget/nuget/v3/index.json. [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\MoneyTrace.Infrastructure.csproj : error NU1301:   Response status code does not indicate success: 401 (Unauthorized). [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+  Failed to restore D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\MoneyTrace.Infrastructure.csproj (in 15.1 sec).

@@ -1,0 +1,15 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+  MoneyTrace.Domain -> D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Domain\bin\Debug\net9.0\MoneyTrace.Domain.dll
+  MoneyTrace.Application -> D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Application\bin\Debug\net9.0\MoneyTrace.Application.dll
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\Authentication\JwtProvider.cs(1,14): error CS0234: The type or namespace name 'IdentityModel' does not exist in the namespace 'System' (are you missing an assembly reference?) [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\MoneyTrace.Infrastructure.csproj]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\Authentication\JwtProvider.cs(5,17): error CS0234: The type or namespace name 'IdentityModel' does not exist in the namespace 'Microsoft' (are you missing an assembly reference?) [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\MoneyTrace.Infrastructure.csproj]
+
+Build FAILED.
+
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\Authentication\JwtProvider.cs(1,14): error CS0234: The type or namespace name 'IdentityModel' does not exist in the namespace 'System' (are you missing an assembly reference?) [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\MoneyTrace.Infrastructure.csproj]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\Authentication\JwtProvider.cs(5,17): error CS0234: The type or namespace name 'IdentityModel' does not exist in the namespace 'Microsoft' (are you missing an assembly reference?) [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\MoneyTrace.Infrastructure.csproj]
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:01.53

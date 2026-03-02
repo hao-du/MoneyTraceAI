@@ -1,0 +1,12 @@
+﻿  Determining projects to restore...
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Application\MoneyTrace.Application.csproj : error NU1100: Unable to resolve 'FluentValidation.DependencyInjectionExtensions (>= 11.10.0)' for 'net9.0'. [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\MoneyTrace.Infrastructure.csproj : error NU1100: Unable to resolve 'Microsoft.EntityFrameworkCore.Sqlite (>= 9.0.2)' for 'net9.0'. [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\MoneyTrace.Infrastructure.csproj : error NU1100: Unable to resolve 'Microsoft.EntityFrameworkCore.Tools (>= 9.0.2)' for 'net9.0'. [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\MoneyTrace.Infrastructure.csproj : error NU1100: Unable to resolve 'FluentValidation.DependencyInjectionExtensions (>= 11.10.0)' for 'net9.0'. [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Api\MoneyTrace.Api.csproj : error NU1100: Unable to resolve 'FluentValidation.DependencyInjectionExtensions (>= 11.10.0)' for 'net9.0'. [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Api\MoneyTrace.Api.csproj : error NU1100: Unable to resolve 'Microsoft.EntityFrameworkCore.Sqlite (>= 9.0.2)' for 'net9.0'. [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Api\MoneyTrace.Api.csproj : error NU1100: Unable to resolve 'Microsoft.EntityFrameworkCore.Tools (>= 9.0.2)' for 'net9.0'. [D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.sln]
+  Failed to restore D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Application\MoneyTrace.Application.csproj (in 177 ms).
+  Failed to restore D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Infrastructure\MoneyTrace.Infrastructure.csproj (in 234 ms).
+  Failed to restore D:\Hao\Code\MoneyTraceAI\backend\MoneyTrace.Api\MoneyTrace.Api.csproj (in 234 ms).
+  1 of 4 projects are up-to-date for restore.
